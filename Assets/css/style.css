@@ -510,27 +510,27 @@ img{
 }
 
 .skills__html{
-        width: 90%;
+        width: 100%;
 }
 
 .skills__css{
-        width: 80%;
+        width: 100%;
 }
 
 .skills__js{
-        width: 60%;
+        width: 100%;
 }
 
 .skills__react{
-        width: 70%;
+        width: 100%;
 }
 
 .skills__node{
-        width: 70%;
+        width: 100%;
 }
 
 .skills__mongodb{
-        width: 70%;
+        width: 100%;
 }
 
 .skills__close .skills__list{
