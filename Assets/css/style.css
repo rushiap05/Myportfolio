@@ -1046,3 +1046,8 @@ img{
         
 
 }
+
+.center-contact-div {
+        width: fit-content;
+        margin: auto;
+}
