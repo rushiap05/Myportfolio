@@ -820,8 +820,6 @@ img{
   .container{
           margin-left: var(--mb-1);
           margin-right: var(--mb-1);
-          width: fit-content;
-          margin: auto;
   }
 
   .nav__menu{
