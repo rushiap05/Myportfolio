@@ -640,6 +640,7 @@ img{
         display: grid;
         overflow-x: hidden !important;
          margin: auto;
+         /* grid-template-columns: 30% 30% 30%; */
 }
 
 /* .swiper-wrapper{
